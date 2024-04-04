@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T17:45:01 IST" name="Suite" finished-at="2024-03-29T17:53:13 IST" duration-ms="492352">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T17:45:01 IST" name="Test" finished-at="2024-03-29T17:53:13 IST" duration-ms="492352">
+      <class name="baseclasspkg.Baseurlclass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:baseclasspkg.Baseurlclass@6892b3b6]" started-at="2024-03-29T17:45:01 IST" name="setUp" finished-at="2024-03-29T17:45:51 IST" duration-ms="49622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:baseclasspkg.Baseurlclass@6892b3b6]" started-at="2024-03-29T17:52:44 IST" name="teardown" finished-at="2024-03-29T17:52:56 IST" duration-ms="11708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- baseclasspkg.Baseurlclass -->
+      <class name="testpackage.Checkouttest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpackage.Checkouttest@6e6f2380]" started-at="2024-03-29T17:45:51 IST" name="setup" finished-at="2024-03-29T17:46:30 IST" duration-ms="39240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="operation()[pri:0, instance:testpackage.Checkouttest@6e6f2380]" started-at="2024-03-29T17:47:47 IST" name="operation" finished-at="2024-03-29T17:49:08 IST" duration-ms="80905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testpackage.Checkouttest@6e6f2380]" started-at="2024-03-29T17:52:56 IST" name="closing" finished-at="2024-03-29T17:53:10 IST" duration-ms="13701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testpackage.Checkouttest -->
+      <class name="testpackage.Hometest">
+        <test-method signature="homepageTesting()[pri:0, instance:testpackage.Hometest@76a4ebf2]" started-at="2024-03-29T17:49:08 IST" name="homepageTesting" finished-at="2024-03-29T17:52:44 IST" duration-ms="215972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTesting -->
+      </class> <!-- testpackage.Hometest -->
+      <class name="testpackage.Shoptest">
+        <test-method is-config="true" signature="loading()[pri:0, instance:testpackage.Shoptest@26d9b808]" started-at="2024-03-29T17:46:30 IST" name="loading" finished-at="2024-03-29T17:47:05 IST" duration-ms="35474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loading -->
+        <test-method signature="shoptesting()[pri:0, instance:testpackage.Shoptest@26d9b808]" started-at="2024-03-29T17:47:05 IST" name="shoptesting" finished-at="2024-03-29T17:47:47 IST" duration-ms="41883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoptesting -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testpackage.Shoptest@26d9b808]" started-at="2024-03-29T17:53:10 IST" name="teardown" finished-at="2024-03-29T17:53:13 IST" duration-ms="3723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testpackage.Shoptest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
